@@ -1,0 +1,8 @@
+{
+  "name": "The Epic Of Bharatvarsha",
+  "description": "An interactive, explorable timeline, historical cause-and-effect roadmap, interactive map, and heritage spotlight of Indian history across five pivotal eras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
